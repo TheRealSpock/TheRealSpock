@@ -1,4 +1,4 @@
-### The Real Mr. Spock, lost on earth and data science for space
+### TheRealSpock, lost on earth and data science for space
 
 - 👋 Here is TheRealSpock and I crashed here on Earth. I no longer have contact with my crew. That's why I'm looking for earthlings who can build a spaceship and want to travel with me back to my home planet Vulcan. Importantly, we need enough space in the starship for a sustainable organic coffee and sugar beet plantation, as well as space for cows to be kept in a species-appropriate manner. So there is room for everything to produce good coffee! Afterwards we can continue exploring the universe together on space missions!
 - 👀 I’m interested in data science and web development.
